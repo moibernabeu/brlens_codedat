@@ -1,0 +1,22 @@
+Proteome,TaxaID,Date,Longest,Source,Species Name,Normalising group
+KLUWA,4914,2007-04-01,5198,YGOB,Kluyveromyces waltii,A
+PICST,4924,2007-04-01,5821,JGI,Pichia stipitis,NA
+PICGU,4929,2007-04-01,5919,Broad_Institute,Pichia guilliermondii,NA
+SACBA,4931,2007-04-01,5842,YGOB,Saccharomyces bayanus,A
+YEAST,4932,2007-04-01,6634,SGD,Saccharomyces cerevisiae,A
+SACKL,4934,2007-04-01,5759,Fungal_Genomes,Saccharomyces kluyveri,A
+YARLI,4952,2006-06-01,6525,integr8,Yarrowia lipolytica,NA
+DEBHA,4959,2006-06-01,6311,integr8,Debaryomyces hansenii,NA
+CANAL,5476,2007-11-01,6101,Candida_Genome_Datab,Candida albicans,NA
+CANGA,5478,2007-11-01,5201,Genolevures,Candida glabrata,A
+CANTR,5482,2007-04-01,6230,Broad_Institute,Candida tropicalis,NA
+SACCA,27288,2007-04-01,5666,SGD,Saccharomyces castellii,A
+SACPA,27291,2007-04-01,5593,Fungal_Genomes,Saccharomyces paradoxus,A
+KLULA,28985,2007-04-01,5317,NCBI,Kluyveromyces lactis,A
+CLALS,36911,2007-04-01,5937,Broad_Institute,Clavispora lusitaniae,NA
+LODEL,36914,2007-04-01,5779,Broad_Institute,Lodderomyces elongisporus,NA
+CANDU,42374,2007-04-01,6588,Fungal_Genomes,Candida dubliniensis,NA
+SACKU,114524,2007-04-01,6013,Fungal_Genomes,Saccharomyces kudriavzevii,A
+SACMI,114525,2007-04-01,5679,Fungal_Genomes,Saccharomyces mikatae,A
+ASHGO,284811,2007-04-01,4717,NCBI,Ashbya gossypii ATCC 10895,A
+VANPO,436907,2007-11-01,5467,YGOB,Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294),A

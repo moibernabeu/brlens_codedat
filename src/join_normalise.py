@@ -8,7 +8,7 @@ join_normalise.py -- Phylome partitions join and calculate normalised distances
 
 Requirements: pandas
 
-Written by Moisès Bernabeu <moigil.bernabeu@gmail.com>
+Written by Moisès Bernabeu <moigil.bernabeu.sci@gmail.com>
 March 2022
 '''
 
